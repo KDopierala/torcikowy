@@ -1,0 +1,1 @@
+{"mappings":"AAEA","sources":["css/main.scss","css/abstracts/_variables.scss"],"sourcesContent":["@use './abstracts/variables' as var;\r\n\r\nbody{\r\n    background-color: var.$primary-pink;\r\n}",null],"names":[],"version":3,"file":"index.7abba0a1.css.map","sourceRoot":"/__parcel_source_root/"}
